@@ -1,5 +1,5 @@
 # HW_solutions_folder:
-./lectures/tutorials/solutions/HW_solutions_export/*.ipynb
+lectures/tutorials/solutions/HW_solutions_export/*.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
