@@ -165,3 +165,4 @@ cython_debug/
 #.idea/
 lectures/data/training_energy_data.csv
 lectures/data/train_energy_data.csv
+.DS_Store
