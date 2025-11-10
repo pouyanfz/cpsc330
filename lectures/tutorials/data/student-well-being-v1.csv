@@ -1,0 +1,151 @@
+student_id,sleep_hours,study_hours,physical_activity_minutes,mood,coffee_intake,screen_time_hours,participated_in_meditation,friend_support,semester,good_well_being,recent_post_title
+1,7.7,3.3,30,Anxious,1,3.0,0,0,Spring,1,Staying focused without distractions
+2,6.8,3.3,15,Tired,1,4.7,0,1,Summer,0,My top productivity apps
+3,8.0,2.3,60,Happy,2,5.1,1,1,Spring,1,Enjoying nature more often
+4,9.3,3.2,60,Neutral,2,7.2,0,1,Spring,0,Building confidence in public speaking
+5,6.6,3.3,90,Happy,1,1.6,1,1,Summer,1,Celebrating small wins
+6,6.6,2.3,30,Happy,4,8.1,0,1,Fall,1,Learning from my mentors
+7,9.4,4.9,30,Tired,2,4.7,0,1,Summer,0,Overcoming procrastination one step at a time
+8,8.2,3.5,60,Neutral,1,4.1,0,1,Fall,1,Exploring new places in my city
+9,6.3,1.8,30,Neutral,0,3.0,1,1,Summer,1,Best productivity hacks I’ve learned
+10,7.8,3.7,90,Energetic,1,1.7,1,1,Summer,1,My recent art project
+11,6.3,2.0,60,Happy,1,6.6,1,1,Spring,1,The importance of sleep for mental health
+12,6.3,3.8,30,Happy,1,5.1,0,1,Fall,1,Finding time for self-reflection
+13,7.4,4.2,60,Anxious,1,2.4,0,0,Spring,1,The impact of positivity in my life
+14,4.1,2.2,60,Energetic,1,2.4,1,1,Fall,1,Developing a growth mindset
+15,4.4,4.0,15,Anxious,1,4.3,0,1,Summer,1,Creating a morning routine that works for me
+16,6.2,3.4,90,Anxious,3,8.3,0,0,Summer,0,Small steps to achieve big goals
+17,5.5,3.8,45,Anxious,0,4.5,0,1,Fall,1,Why I love studying at the library
+18,7.5,4.9,60,Tired,2,2.0,1,0,Spring,1,Why I decided to volunteer
+19,5.6,2.8,30,Tired,1,4.5,1,0,Spring,0,Learning to embrace solitude
+20,4.9,2.2,60,Anxious,4,4.5,0,1,Spring,1,How I keep my workspace organized
+21,9.2,2.1,30,Energetic,0,-0.4,1,0,Spring,0,Movie night with friends!
+22,6.7,2.2,15,Happy,1,4.9,1,1,Summer,0,Finding balance between work and fun
+23,7.1,2.9,90,Energetic,4,4.5,0,1,Summer,1,Why I took a social media detox
+24,4.9,3.3,15,Neutral,3,6.4,0,0,Summer,0,Starting a new workout routine
+25,6.2,3.3,30,Tired,3,8.7,1,0,Summer,0,The benefits of learning a second language
+26,7.2,3.8,90,Happy,1,7.3,0,0,Summer,0,My favorite productivity techniques
+27,5.3,3.0,90,Happy,1,4.5,0,1,Spring,1,Why I prefer outdoor workouts
+28,7.6,4.5,45,Neutral,2,2.8,0,1,Spring,1,New music I discovered recently
+29,6.1,2.7,45,Neutral,3,10.1,1,1,Spring,0,Why I love morning walks
+30,6.6,5.7,30,Anxious,2,5.1,1,0,Spring,1,The power of positive thinking
+31,6.1,3.6,30,Tired,2,5.0,1,1,Summer,0,Reflections on mindfulness and calm
+32,9.8,2.1,30,Tired,1,5.0,0,0,Summer,0,Exploring local cultural events
+33,7.0,1.9,45,Energetic,2,5.4,1,1,Summer,1,Thoughts on the latest tech trends
+34,5.4,3.5,60,Anxious,1,4.7,1,0,Fall,1,Exploring the benefits of cold showers
+35,8.2,2.8,60,Anxious,1,3.9,0,1,Spring,1,Embracing minimalism in life
+36,5.2,3.7,60,Anxious,1,3.9,1,0,Spring,1,Best study playlists
+37,7.3,3.5,15,Anxious,2,4.9,0,1,Summer,1,The perks of staying hydrated
+38,4.1,2.9,30,Tired,1,3.9,0,0,Spring,0,Celebrating milestones
+39,5.0,2.2,15,Tired,0,3.6,0,1,Spring,0,My favorite podcasts for learning
+40,7.3,1.5,45,Anxious,2,5.2,0,1,Summer,1,Why physical activity is essential for well-being
+41,8.1,2.6,30,Energetic,1,4.5,0,0,Fall,1,Making time for family and friends
+42,7.3,3.9,60,Happy,2,8.0,0,1,Fall,0,Making the most of my study sessions
+43,6.8,3.2,30,Happy,1,-0.3,0,1,Fall,0,How I stay organized with a busy schedule
+44,6.5,1.8,15,Energetic,1,7.2,1,0,Summer,0,Simple exercises for desk workers
+45,4.8,3.2,15,Anxious,2,7.5,0,0,Spring,0,Random thoughts at midnight
+46,5.9,3.4,60,Tired,0,0.9,0,1,Summer,1,How minimalism changed my life
+47,6.3,2.1,45,Happy,1,4.3,0,0,Summer,1,The benefits of taking short breaks
+48,8.6,3.2,15,Neutral,0,4.3,1,0,Spring,0,How journaling has changed my perspective
+49,7.5,3.1,15,Neutral,0,2.2,0,0,Fall,1,Why I prioritize mental health
+50,4.4,1.9,60,Energetic,4,3.4,0,1,Fall,1,Weekend relaxation tips
+51,7.5,3.4,15,Anxious,1,2.8,1,0,Summer,0,Discovering joy in everyday routines
+52,6.4,3.6,60,Happy,3,8.5,0,1,Fall,0,The science behind a good night's sleep
+53,6.0,4.1,60,Anxious,1,6.9,0,1,Summer,1,Just finished a great book!
+54,7.9,4.1,15,Happy,2,7.5,0,1,Summer,0,Why I value offline connections
+55,8.5,1.6,15,Energetic,2,6.4,1,1,Spring,0,Focusing on small daily goals
+56,8.4,2.1,90,Energetic,2,2.7,0,0,Spring,1,How I manage stress during exams
+57,5.7,3.5,30,Neutral,1,4.0,1,1,Spring,0,Making time for creative hobbies
+58,6.5,3.5,30,Anxious,1,6.0,0,0,Summer,1,What I learned from my last project
+59,7.5,3.5,60,Neutral,1,2.6,1,0,Spring,1,Tips for staying motivated in online classes
+60,8.5,6.9,90,Anxious,3,6.4,1,0,Fall,1,Learning new skills outside of classes
+61,6.3,3.6,90,Neutral,3,4.5,1,0,Fall,1,How I’m staying fit this semester
+62,6.7,4.1,60,Tired,4,4.3,0,1,Summer,1,Thoughts on environmental conservation
+63,5.3,4.0,30,Tired,0,6.4,1,1,Summer,0,Why I love sunset hikes
+64,5.2,3.7,15,Tired,2,5.9,0,0,Spring,1,Why I love listening to audiobooks
+65,8.2,2.7,60,Tired,3,4.3,0,0,Summer,1,How I stay grounded amidst chaos
+66,9.0,3.8,45,Happy,1,7.3,0,1,Summer,1,The art of saying no
+67,6.9,2.2,30,Tired,0,2.8,1,0,Fall,0,Why I prioritize quality over quantity
+68,8.5,2.8,90,Energetic,2,6.2,1,0,Fall,1,Why I enjoy studying with friends
+69,7.5,2.5,15,Energetic,2,6.2,1,0,Spring,0,Why I make time for personal projects
+70,6.0,3.1,30,Happy,3,4.4,0,1,Summer,1,Fun moments with friends this weekend
+71,7.5,5.3,15,Tired,0,5.7,0,1,Summer,0,Boosting energy with healthy snacks
+72,9.3,1.1,30,Tired,2,2.5,1,0,Fall,0,Why I limit my screen time
+73,6.9,3.7,15,Tired,1,6.8,0,0,Summer,0,How nature helps me reset
+74,9.3,1.4,15,Neutral,1,4.6,0,1,Fall,0,Setting personal boundaries
+75,3.1,2.5,15,Anxious,1,4.0,0,1,Spring,1,Feeling grateful for the support from friends
+76,8.2,4.1,45,Neutral,3,7.1,0,0,Fall,0,A weekend getaway to recharge
+77,7.1,3.1,60,Anxious,2,3.6,0,1,Summer,1,Planning my week for success
+78,6.6,1.9,45,Tired,2,2.2,0,0,Spring,1,Why I'm committed to lifelong learning
+79,7.1,2.3,90,Tired,1,1.9,0,0,Fall,1,Tips for staying motivated during exams
+80,4.0,3.7,30,Neutral,3,6.2,0,1,Fall,1,Balancing academics and relaxation
+81,6.7,2.3,30,Neutral,1,2.4,1,0,Spring,1,Ways to stay focused while studying
+82,7.5,3.2,60,Anxious,3,8.5,0,1,Spring,1,Discovering new study spots on campus
+83,9.2,3.0,30,Energetic,1,0.8,0,0,Fall,1,Creating a healthy evening routine
+84,6.2,2.3,90,Anxious,1,8.4,0,0,Summer,1,Cooking something new tonight!
+85,5.8,5.1,15,Neutral,1,5.4,0,1,Fall,1,How I manage my time effectively
+86,6.2,3.6,90,Neutral,1,4.8,1,0,Spring,1,Why I started meditating
+87,8.4,1.0,15,Happy,2,3.9,1,1,Fall,1,A day in my study life
+88,7.5,3.2,60,Neutral,2,5.8,0,0,Spring,1,Reflections on a productive semester
+89,6.2,2.3,45,Happy,1,4.9,0,0,Spring,1,How I start my day with positive affirmations
+90,7.8,3.9,90,Energetic,3,7.2,1,0,Summer,0,Staying productive without burnout
+91,7.1,2.2,15,Anxious,1,5.2,1,1,Spring,0,Overcoming challenges in group projects
+92,8.5,2.9,45,Anxious,2,5.3,0,0,Spring,1,Reflections on personal growth
+93,5.9,3.5,90,Happy,3,4.3,0,1,Summer,1,Reflecting on lessons learned from failures
+94,6.5,3.9,45,Anxious,2,4.9,0,0,Spring,1,Lessons from my favorite podcast
+95,6.4,1.8,45,Neutral,0,5.6,1,1,Summer,1,Reflections on my semester goals
+96,4.8,2.7,45,Tired,3,1.6,0,0,Summer,1,Why I started a gratitude journal
+97,7.4,2.5,30,Happy,2,2.3,1,1,Spring,1,Learning to cook new dishes
+98,7.4,2.3,45,Anxious,1,6.5,0,1,Spring,1,Managing stress through yoga
+99,7.0,4.8,45,Happy,0,5.3,0,1,Fall,1,Why mindfulness is key to productivity
+100,6.6,3.4,90,Happy,2,4.6,0,1,Summer,1,The impact of gratitude on my mindset
+101,4.9,1.7,15,Tired,2,5.0,0,1,Fall,0,Exploring creative outlets for relaxation
+102,6.4,3.9,30,Neutral,2,5.7,0,1,Spring,1,Healthy meal prep ideas for students
+103,6.5,5.1,90,Happy,3,3.9,0,0,Fall,1,The benefits of a consistent sleep schedule
+104,5.8,4.0,60,Anxious,2,3.4,0,0,Summer,1,The impact of social media on mental health
+105,6.8,1.5,30,Energetic,1,5.4,1,1,Fall,0,Rediscovering the joy of reading
+106,7.6,2.5,45,Happy,1,3.0,0,1,Summer,1,My current music playlist
+107,9.8,4.3,30,Happy,1,5.8,0,1,Spring,0,Experimenting with new recipes
+108,7.3,2.3,15,Tired,2,1.6,1,0,Spring,0,Is coffee really helping me stay productive?
+109,7.4,3.4,30,Neutral,0,7.1,1,0,Summer,1,How nature walks help me unwind
+110,6.9,3.8,30,Energetic,2,5.9,1,0,Spring,1,What I’ve learned from failure
+111,4.1,2.1,45,Anxious,2,5.5,1,1,Spring,1,New insights from my latest research project
+112,7.0,2.9,15,Energetic,3,7.0,0,0,Spring,0,Grateful for small moments of joy
+113,7.1,-0.2,90,Anxious,1,8.3,0,0,Spring,0,Reflecting on my personal achievements
+114,10.7,2.0,90,Neutral,3,7.0,1,0,Summer,0,Exploring local parks
+115,6.7,2.7,45,Anxious,0,1.3,0,0,Fall,1,How I stay productive during exams
+116,7.5,1.8,45,Tired,3,2.4,0,0,Fall,1,The importance of gratitude
+117,6.9,4.6,30,Tired,0,3.8,1,0,Spring,0,The joys of quiet weekends
+118,5.2,1.6,60,Tired,1,5.1,0,1,Fall,1,Learning to navigate difficult conversations
+119,8.7,2.6,45,Tired,2,6.0,0,0,Fall,1,My journey with healthy eating
+120,8.1,3.1,15,Energetic,0,3.5,0,0,Spring,0,My creative process in art projects
+121,8.2,4.4,90,Neutral,1,5.4,0,0,Spring,1,My top 5 study tips for finals
+122,5.6,1.6,60,Anxious,2,3.5,0,0,Fall,1,Small wins from the past month
+123,9.1,4.2,90,Anxious,2,3.8,0,0,Summer,1,Breaking free from procrastination
+124,4.9,3.0,60,Tired,2,2.2,1,0,Spring,1,Creative ways to stay motivated
+125,7.9,2.0,45,Tired,2,3.2,0,1,Summer,1,Embracing change in daily life
+126,10.3,3.5,30,Happy,2,2.3,0,0,Fall,0,Finding balance with part-time work
+127,5.5,3.2,90,Neutral,1,3.0,1,1,Spring,1,Finding joy in small daily routines
+128,6.2,2.4,60,Energetic,1,7.1,1,1,Summer,1,Building healthy habits one day at a time
+129,7.1,3.1,15,Anxious,1,3.1,1,1,Spring,0,Planning my next travel destination
+130,6.2,2.6,15,Happy,3,10.3,1,0,Fall,0,Reflections on my study habits
+131,4.7,3.1,30,Happy,2,6.0,0,0,Summer,1,Taking a break from social media
+132,7.1,3.7,60,Anxious,1,5.4,0,0,Fall,1,The benefits of journaling
+133,5.4,4.6,90,Energetic,1,3.3,0,0,Fall,1,Learning to manage my finances
+134,7.7,1.8,15,Happy,3,6.4,0,1,Spring,0,How I stay consistent with my goals
+135,5.6,5.1,45,Happy,1,3.8,0,0,Summer,1,Why I take time to disconnect from screens
+136,9.3,1.0,30,Neutral,2,5.2,0,0,Fall,0,Exploring mindfulness practices
+137,5.8,2.8,90,Energetic,2,10.1,1,1,Fall,1,Trying new study techniques
+138,6.5,3.6,60,Happy,2,4.8,0,1,Summer,1,Why I prefer handwritten notes
+139,8.2,3.3,60,Energetic,0,7.3,0,0,Fall,1,Reflecting on my goals for the semester
+140,5.2,2.4,30,Anxious,3,3.6,0,0,Fall,1,Balancing social life and academics
+141,7.3,2.8,30,Tired,3,4.9,0,0,Summer,1,Strategies for effective teamwork
+142,9.0,2.5,30,Happy,2,8.5,0,0,Summer,1,Ways I practice mindfulness
+143,4.6,2.4,15,Neutral,2,3.7,1,0,Summer,1,Discovering new passions
+144,7.3,3.8,60,Anxious,3,8.6,0,0,Summer,0,Trying out a new hobby
+145,7.4,3.4,60,Energetic,2,6.4,0,0,Spring,1,Self-care tips I swear by
+146,8.2,2.3,90,Anxious,1,3.9,0,0,Summer,1,Exploring local food markets
+147,5.1,3.9,90,Happy,2,6.3,1,0,Spring,0,Exploring new hiking trails this weekend
+148,5.0,3.3,45,Energetic,2,6.9,0,0,Spring,1,Setting achievable goals for the semester
+149,7.8,3.8,60,Tired,1,6.2,0,0,Spring,1,What I've learned from solo travel
+150,7.4,3.6,90,Anxious,2,1.9,0,1,Fall,1,Finding inspiration in everyday life
